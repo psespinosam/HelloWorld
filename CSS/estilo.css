@@ -22,7 +22,9 @@
   font-weight: 500;
   font-style: normal;
   text-align: center;
-  font-size: 30px;
+  
+  
+
 }
 
 .f2 {
@@ -38,6 +40,7 @@
   font-style: normal;
   font-size: 90px;
   text-align: center;
+  color: white;
 }
 
 .f4{
@@ -46,6 +49,6 @@
   font-style: normal;
   text-align: center;
   font-size: 30px;
-  background-color: #29899F;
+  background-color: #195563;
   color:aliceblue
 }
